@@ -1,12 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\umerm\\Desktop\\WebASP\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\antoi\\Desktop\\antoine cfa\\ASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\antoi\\desktop\\antoine cfa\\aspnet\\webapplication1\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\antoi\\Desktop\\antoine cfa\\ASPNET\\WebApplication1\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\antoi\\Desktop\\antoine cfa\\ASPNET\\WebApplication1\\Models\\Class.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:40:51.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
