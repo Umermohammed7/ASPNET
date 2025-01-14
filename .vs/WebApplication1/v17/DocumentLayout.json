@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\umerm\\Desktop\\WebASP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Paiement.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Paiement.cs",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Paiement.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Paiement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:41:17.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
