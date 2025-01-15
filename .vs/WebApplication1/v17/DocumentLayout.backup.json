@@ -1,12 +1,224 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\umerm\\Desktop\\WebASP\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\starstore\\desktop\\cours-insta\\mr.djamel-bekir\\devops\\umerhub\\webapplication1\\migrations\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115112145_M7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250115112145_M7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\starstore\\desktop\\cours-insta\\mr.djamel-bekir\\devops\\umerhub\\webapplication1\\models\\myctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\myctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\starstore\\desktop\\cours-insta\\mr.djamel-bekir\\devops\\umerhub\\webapplication1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115111832_M6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250115111832_M6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115110945_M5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250115110945_M5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115104309_M4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250115104309_M4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\starstore\\desktop\\cours-insta\\mr.djamel-bekir\\devops\\umerhub\\webapplication1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115102518_M3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250115102518_M3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\starstore\\desktop\\cours-insta\\mr.djamel-bekir\\devops\\umerhub\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115094430_M2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250115094430_M2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\starstore\\desktop\\cours-insta\\mr.djamel-bekir\\devops\\umerhub\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250115112145_M7.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115112145_M7.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250115112145_M7.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115112145_M7.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250115112145_M7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:21:45.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250115111832_M6.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115111832_M6.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250115111832_M6.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115111832_M6.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250115111832_M6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:18:32.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalogue.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\Catalogue.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\Catalogue.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\Catalogue.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\Catalogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:07:34.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Models\\Client.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Client.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:30:32.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Myctx.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Models\\Myctx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Myctx.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Models\\Myctx.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Myctx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:48:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250115110945_M5.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115110945_M5.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250115110945_M5.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115110945_M5.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250115110945_M5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:09:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250115104309_M4.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115104309_M4.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250115104309_M4.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115104309_M4.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250115104309_M4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:43:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250115102518_M3.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115102518_M3.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250115102518_M3.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115102518_M3.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250115102518_M3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:25:18.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Models\\Produit.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:20:10.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250115094430_M2.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115094430_M2.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250115094430_M2.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Migrations\\20250115094430_M2.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250115094430_M2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:44:30.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:38:01.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\starstore\\Desktop\\cours-insta\\Mr.Djamel-Bekir\\Devops\\umerhub\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T09:10:37.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

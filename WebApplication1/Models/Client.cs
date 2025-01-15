@@ -9,6 +9,12 @@
 
         public string Prenom { get; set; }
 
+        private string Adresse { get; set; }
+
+        public string Address { get; set; }
+
+
+
         // constructeur 
 
         public Client (int id, string Nom, string Prenom)
