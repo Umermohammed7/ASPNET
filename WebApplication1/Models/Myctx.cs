@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApplication1.Migrations;
+
 
 namespace WebApplication1.Models
 {
@@ -11,7 +11,8 @@ namespace WebApplication1.Models
         public DbSet<Client> Clients { get; set; }
         public DbSet<Produit> Produits { get; set; }
 
-        public DbSet<Catalogue> Catalogues {  get; set; } 
+
+       // public DbSet<Catalogue> Catalogues {  get; set; } 
         
     }
 }

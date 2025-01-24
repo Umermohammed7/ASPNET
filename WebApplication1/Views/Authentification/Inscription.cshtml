@@ -1,0 +1,45 @@
+﻿@model Inscription
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire d'inscription</title>
+</head>
+<body>
+    <h2>Formulaire d'inscription</h2>
+    <form asp-action="Inscription" method="post">
+        <!-- Nom -->
+        <div class="form-group">
+            <label asp-for="Name" class="control-label">Nom :</label>
+            <input asp-for="Name" type="text" id="nom" name="nom" class="form-control" placeholder="Entrez votre nom" required>
+        </div>
+        <br>
+        <!-- Email -->
+        <div class="form-group">
+            <label asp-for="Email" class="control-label">Adresse e-mail :</label>
+            <input asp-for="Email" type="email" id="email" name="email" class="form-control" placeholder="Entrez votre e-mail" required>
+        </div>
+        <br>
+        <!-- Mot de passe -->
+        <div class="form-group">
+            <label asp-for="Password" class="control-label">Mot de passe :</label>
+            <input asp-for="Password" type="password" id="password" class="form-control" name="password" placeholder="Créez un mot de passe" required>
+        </div>
+        <br>
+        <!-- Confirmation de mot de passe -->
+        <div class="form-group">
+            <label class="control-label">Confirmez le mot de passe :</label>
+            <input type="password" id="confirm_password" class="form-control" name="confirm_password" placeholder="Répétez le mot de passe" required>
+        </div>
+        <br>
+        <!-- Bouton de soumission -->
+        <div>
+            <button type="submit" class="btn btn-primary">S'inscrire</button>
+        </div>
+    </form>
+    <p>
+        Vous avez déjà un compte ? <a href="/Authentification/Login">Connectez-vous</a>
+    </p>
+</body>
+</html>

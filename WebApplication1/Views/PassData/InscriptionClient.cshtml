@@ -1,0 +1,40 @@
+﻿
+@{
+    var inscriclient = ViewData["inscri"] as Client;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Formulaire</title>
+</head>
+<body>
+    <h1>Formulaire d'inscription</h1>
+   
+        <!-- Champ Nom -->
+        <div>
+            <label for="nom">Nom:</label>
+            <input type="text" id="nom" name="nom" value="@inscriclient.Name">
+        </div>
+        <br>
+
+        
+          <!-- Champ Email -->
+          <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" value="@inscriclient.Email">
+        </div>
+        <br>
+
+        <!-- Champ Adresse -->
+        <div>
+            <label for="adresse">Adresse:</label>
+            <input type="text" id="adresse" name="adresse" value="@inscriclient.Address">
+        </div>
+        <br>
+
+       
+        
+   
+</body>
+</html>
