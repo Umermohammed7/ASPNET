@@ -1,12 +1,155 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\umerm\\Desktop\\WebASP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\models\\myctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\myctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|c:\\users\\umerm\\desktop\\webasp\\webapplication1\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00743D48-3A7E-4B96-A85E-ED30265D8E02}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Views\\Client\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Client\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Views\\Client\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Client\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:49:29.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Produit.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:42:45.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Views\\Client\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Client\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Views\\Client\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Client\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:42:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Myctx.cs",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Myctx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Myctx.cs",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Myctx.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Myctx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:19:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProduitController.cs",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProduitController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwHkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:18:21.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Views\\Client\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Client\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:16:45.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Models\\Client.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Client.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:15:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\umerm\\Desktop\\WebASP\\WebApplication1\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:14:31.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

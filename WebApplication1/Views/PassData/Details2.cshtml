@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Détails du paiement";
+    @model ClientPaiement
+}
+
+<h1>Details2</h1>
+<!DOCTYPE html>
+<html>
+    <head><title>Détails du paiement</title></head>
+    <body>
+
+        <h1>Détails du paiement</h1>
+        <h2>Paiement</h2>
+        <p>Id : @Model.paiements.id</p>
+        <p>Détail : @Model.paiements.detail</p>
+        <p>Montant total : @Model.paiements.Montant_total</p>
+        <h2>Client</h2>
+        <p>Nom: @Model.clients.Name</p>
+
+
+    </body>
+</html>
