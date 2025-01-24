@@ -28,12 +28,52 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Client/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Client/Newclient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XE5ld2NsaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Passdata/ActTempData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2RhdGFcQWN0VGVtcERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Passdata/Data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2RhdGFcRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Passdata/Details2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2RhdGFcRGV0YWlsczIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Produit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Produit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Produit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Produit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Produit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/antoi/Desktop/antoine cfa/ASPNET/WebApplication1/Views/Shared/Error.cshtml]

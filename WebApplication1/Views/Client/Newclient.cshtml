@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@{
+    var client = ViewData["Custommer"] as Custommer;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+
+    <b>email: @client.Id </b></br>
+    <b>nom :  @client.Nom</b></br>
+    <b>prenom : @client.Prenom   </b></br>
+</div>

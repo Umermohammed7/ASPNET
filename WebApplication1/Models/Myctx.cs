@@ -10,9 +10,9 @@ namespace WebApplication1.Models
 
         }
 
-        // public DbSet<Client> Clients { get; set; }
+        //public DbSet<Custommer> Clients { get; set; }
         public DbSet<Produit> Produits { get; set; }
-        public DbSet<Catalogue> cata { get; set; }
+       // public DbSet<Catalogue> cata { get; set; }
 
     }
 }
