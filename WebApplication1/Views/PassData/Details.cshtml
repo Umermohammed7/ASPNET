@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var paiement = ViewData["Paiement"] as Paiement; // ici on peut avoir un objet 
+   // var paiement = ViewBag["Paiement"] as Paiement; // ici on peut avoir qu'une seule valeur donc ça ne va pas marcher 
+}
+
+
+
+<form>
+    <h1>Récap Commande</h1>
+    <label>Numéro de commande : </label>
+    <input type="number" value="@paiement.id" />
+    <br />
+    <label>Montant_total</label>
+    <input type="number" value="@paiement.Montant_total" />
+    <br />
+    <label>Détail de paiement</label>
+    <input type="text" value="@paiement.detail"/>
+</form>
